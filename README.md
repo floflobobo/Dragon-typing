@@ -15,3 +15,4 @@ Bruitages et aide vocale (lecture de la lettre quand l'enfant hésite) activable
 ## Utilisation
 
 Ouvrir `index.html` dans un navigateur. Aucun serveur ni installation n'est nécessaire.
+https://floflobobo.github.io/Dragon-typing/
